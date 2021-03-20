@@ -1,13 +1,13 @@
 # title
 
-![](image/banner.jpg)
+![](https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/banner.jpg)
 
 帮助组织建立解决最常见业务挑战的关键能力并设定相应基准   
 旨在优化不断变化的全球环境中的业务性能  
 
 ## unit-1
 
-![](image/shirt.svg)
+![](https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/shirt.svg)
 
 文字
 
@@ -15,7 +15,7 @@
 
 ### 
 
-![](image/teacher.svg)
+![](https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/teacher.svg)
 
 文字
 
@@ -25,13 +25,13 @@
 
 ### card
 
-![](image/record.svg)
+![](https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/record.svg)
 
 文字
 
 ### card
 
-![](image/record.svg)
+![](https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/record.svg)
 
 文字
 
@@ -41,7 +41,7 @@
 
 ### card
 
-![](image/cart.svg)
+![](https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/cart.svg)
 
 文字
 
@@ -51,7 +51,7 @@
 
 ### card
 
-![](image/cart.svg)
+![](https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/cart.svg)
 
 文字
 
@@ -61,7 +61,7 @@
 
 ### card
 
-![](image/cart.svg)
+![](https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/cart.svg)
 
 文字
 
@@ -75,7 +75,7 @@
 
 ### card
 
-![](image/bank.svg)
+![](https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/bank.svg)
 
 文字
 
@@ -85,7 +85,7 @@
 
 #### pop
 
-![](image/record.svg)
+![](https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/record.svg)
 
 文字
 
@@ -95,7 +95,7 @@
 
 ### card
 
-![](image/bank.svg)
+![](https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/bank.svg)
 
 文字
 
@@ -105,7 +105,7 @@
 
 #### pop
 
-![](image/record.svg)
+![](https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/record.svg)
 
 文字
 
@@ -115,7 +115,7 @@
 
 ### card
 
-![](image/bank.svg)
+![](https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/bank.svg)
 
 文字
 
@@ -125,7 +125,7 @@
 
 #### pop
 
-![](image/record.svg)
+![](https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/record.svg)
 
 我的文字
 
@@ -135,7 +135,7 @@
 
 ### card
 
-![](image/bank.svg)
+![](https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/bank.svg)
 
 文字
 
@@ -145,7 +145,7 @@
 
 #### pop
 
-![](image/record.svg)
+![](https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/record.svg)
 
 文字文字文字文字文字文字文字文字文字文字文字文字
 
