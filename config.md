@@ -14,11 +14,11 @@
 
 ### icon
 
-`image/icon.ico`
+`https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/icon.ico`
 
 ### logo
 
-`image/logo.png`
+`https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/logo.png`
 
 ### nav
 
