@@ -12,13 +12,9 @@
 
 ## header
 
-### icon
-
-`https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/icon.ico`
-
 ### logo
 
-`https://raw.githubusercontent.com/Tyxiang/forw.cc/master/image/logo.png`
+![logo](image/logo.png)
 
 ### nav
 
